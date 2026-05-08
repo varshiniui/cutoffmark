@@ -1,7 +1,7 @@
 package cutoffmark;
-import static org.java.jupiter.api.Assertions.*;
-import org.java.jupiter.api.BeforeAll;
-import org.java.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.Test;
 class EngineeringCutoffTest {
 	static EngineeringCutoff cm;
 @BeforeAll
