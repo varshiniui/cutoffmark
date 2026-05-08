@@ -10,7 +10,7 @@ public static void main (String [] args) {
 	
 	System.out.println("Engineering CutOffMark");
 	System.out.println("Enter Physics Mark:");
-	int Physics = sc.nextInt():
+	int Physics = sc.nextInt();
 	System.out.println("Enter Maths Mark:");
 	int Maths = sc.nextInt();
 	System.out.println("Enter Chemistry Mark");
